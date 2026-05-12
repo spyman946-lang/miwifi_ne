@@ -1,0 +1,8 @@
+{
+  "state": {
+    "miwifi_ne__device_tracker": {
+      "home": "Bağlı",
+      "not_home": "Bağlantı kesildi"
+    }
+  }
+}
